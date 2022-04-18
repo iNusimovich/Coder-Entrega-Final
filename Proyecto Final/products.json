@@ -1,0 +1,76 @@
+{
+    "items": [
+        {
+            "sys": { "id": "1"},
+            "fields": {
+                "title": "Yellow Stone",
+                "price": 0.007,
+                "image": { "fields": { "file": { "url": "./img/collection1.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "2"},
+            "fields": {
+                "title": "The Dome",
+                "price": 0.008,
+                "image": { "fields": { "file": { "url": "./img/collection2.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "3"},
+            "fields": {
+                "title": "Fusion",
+                "price": 0.0043,
+                "image": { "fields": { "file": { "url": "./img/collection3.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "4"},
+            "fields": {
+                "title": "Bullet",
+                "price": 0.005,
+                "image": { "fields": { "file": { "url": "./img/collection4.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "5"},
+            "fields": {
+                "title": "Reality",
+                "price": 0.04,
+                "image": { "fields": { "file": { "url": "./img/collection5.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "6"},
+            "fields": {
+                "title": "An Angel",
+                "price": 0.008,
+                "image": { "fields": { "file": { "url": "./img/collection6.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "7"},
+            "fields": {
+                "title": "Tina in the park",
+                "price": 0.0034,
+                "image": { "fields": { "file": { "url": "./img/collection7.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "8"},
+            "fields": {
+                "title": "KNWT",
+                "price": 0.0067,
+                "image": { "fields": { "file": { "url": "./img/collection8.png"} } }
+            }
+        },
+        {
+            "sys": { "id": "9"},
+            "fields": {
+                "title": "Loop Loop",
+                "price": 0.003,
+                "image": { "fields": { "file": { "url": "./img/collection9.png"} } }
+            }
+        }
+    ]
+}
